@@ -1,0 +1,11 @@
+HTML
+style baris 11 di hapus
+
+
+
+
+CSS 
+class navbar >> id navbar 
+ -> .navbar >> #navbar
+
+ .navbar li >> .menu ul
